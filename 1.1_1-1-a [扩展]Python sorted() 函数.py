@@ -45,3 +45,4 @@ print("result2",result2)
 result3=sorted(students, key=lambda s: s[2], reverse=True)  # 按降序
 print("result3",result3)
 # [('john', 'A', 15), ('jane', 'B', 12), ('dave', 'B', 10)]
+
